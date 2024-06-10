@@ -1,0 +1,9 @@
+{
+	"name": "kncdatafactory0002",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d80f63dc-01cc-453d-bd70-5a5d799e9614",
+		"tenantId": "a1523c6e-b09e-41b0-938e-109ee6fae529"
+	}
+}
